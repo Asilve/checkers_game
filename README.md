@@ -13,7 +13,7 @@ Below is a Diagram of how I will break up making the checkers game into smaller,
 <img width="625" alt="CheckersStep" src="https://github.com/Asilve/checkers_game/assets/115579581/97b52df9-19c0-4532-9da7-f9fe6419c8b4">
 
 ### - Game Display and Navigation
-This mainly involves the visual aspects of the game, but also navigation between the 1 player, and 2 player game formats of checkers. I believe the best way to incorporate this would be a start menu that allows you to pick between playing against the computer or against another (local) player.
+This mainly involves the visual aspects of the game, but also navigation between the 1 player, and 2 player game formats of checkers. I believe the best way to incorporate this would be a start menu that allows you to pick between playing against the computer or against another (local) player.  
 
 ### - Game pieces
 The game will require the program to calculate the valid moves the player can make, and to be able to move, capture and king pieces.

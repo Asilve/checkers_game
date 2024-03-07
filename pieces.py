@@ -41,3 +41,4 @@ class Piece:
         pygame.draw.circle(window, "Gray", (self.xpos, self.ypos), radius + self.outline)
         # Piece colour on top of the outline to create a shadow effect
         pygame.draw.circle(window, self.colour, (self.xpos, self.ypos), radius)
+

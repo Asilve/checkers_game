@@ -45,3 +45,4 @@ def start_screen():
     screen.blit(button_three_text, (271, 444))
 
     pygame.display.update()
+

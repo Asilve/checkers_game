@@ -44,3 +44,4 @@ class Button:
         else:
             self.hover = False
             self.clicked = False
+
